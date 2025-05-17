@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "jsx": "^0.9.89",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "name": "day10-workspace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.4.1",
+    "vite": "^6.3.5"
+  },
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
