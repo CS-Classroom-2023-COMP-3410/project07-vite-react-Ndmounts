@@ -4,7 +4,7 @@
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
   },
-  "name": "day10-workspace",
+  "name": "project07-vite-react",
   "version": "1.0.0",
   "main": "index.js",
   "devDependencies": {
